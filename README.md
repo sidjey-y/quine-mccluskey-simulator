@@ -29,9 +29,6 @@ To use the Quine-McCluskey Simulator:
 3. Simplify the expression using the Quine-McCluskey method.
 4. Customize variable names as needed.
 
-## Contributing
-
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request.
 
 ## License
 
